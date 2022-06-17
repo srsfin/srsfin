@@ -1,4 +1,8 @@
-### Hi there 👋
+<div align='center'>
+    <h1>we are <i>srs</i>.</h1>
+    <img style="padding:0, margin:0" width="50%" src="https://user-images.githubusercontent.com/107682233/174278036-cba46081-9e16-4b0d-b9d7-3c8a269658c5.png"/>
+    <hr/>
+</div>
 
 <!--
 **srsfin/srsfin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +16,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 -->
